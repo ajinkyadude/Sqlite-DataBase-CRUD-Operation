@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "767079140138",
+    "project_id": "pushnotification-528ef",
+    "storage_bucket": "pushnotification-528ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767079140138:android:5d84555b1fd60cbe372c53",
+        "android_client_info": {
+          "package_name": "com.Sqlite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767079140138-cl6nijnv5o146ddcfgdrmtov6uoainb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE4dYf1eTHTj_s1pKwAhlZx4f0ARJRFYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767079140138-cl6nijnv5o146ddcfgdrmtov6uoainb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
